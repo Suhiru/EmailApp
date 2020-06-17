@@ -1,5 +1,5 @@
 # EmailApp
-Scenario: you are an IT support administrator specialist and are charged with the task of creating email accounts for new hires.So to make your task easy you have to create a system to get some specific data from the new hires and automate the email address creaing process.
+Scenario: you are an IT support administrator specialist and are charged with the task of creating email accounts for new hires.So to make your task easy you have to create a system to get some specific data from the new hires and automate the email address creating process.
 
 
 Application must do followings:
